@@ -1,4 +1,4 @@
-const friends = [
+let friends = [
     {id: 1, name: "Tega", age: 29},
     {id: 2, name: "Fela", age: 31},
     {id: 3, name: "Tonia", age: 34},
